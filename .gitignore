@@ -1,0 +1,7 @@
+modem.img
+boot.img
+system/system/apex/com.android.vndk.current.apex
+system/system/app/MiuiVideoPlayer/MiuiVideoPlayer.apk
+system_ext/priv-app/Settings/Settings.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
